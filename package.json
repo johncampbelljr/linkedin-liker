@@ -1,0 +1,15 @@
+{
+  "name": "linkedin-liker",
+  "version": "1.0.0",
+  "description": "Automatically likes new LinkedIn company posts.",
+  "main": "liker.js",
+  "scripts": {
+    "start": "node liker.js"
+  },
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^22.5.0",
+    "dotenv": "^16.3.1"
+  }
+}
